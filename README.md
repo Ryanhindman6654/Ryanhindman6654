@@ -9,7 +9,7 @@ Skills: HTML/ CSS/ JS/ React.js
 - 🔭 I’m currently working on a Hosting website for boundlesshosting.xyz 
 - 🌱 I’m currently learning Python and PHP
 - 💬 Ask me about Anything 
-- 📫 How to reach me: ryan@ryanhindman.top
+- 📫 How to reach me: ryan@ryansprogramming.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I like shoot archery and play disc golf during my free time 
 
