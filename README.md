@@ -19,7 +19,6 @@ I live in Oregon. I have programming skills that I have self taught. I offer Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ryanhindman6654&icon=2&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ryanhindman1223) 
